@@ -123,7 +123,11 @@ Apps are emphemeral. Once they are shutdown, they disappear forever along with a
 
 #### Command line navigation
 
-When you first launch a Cyverse App, you are likely to be located in the directory `~/data-store`. This is a good place to have your workspace. You should clone repos here, bring data here, or put any folder or file here you are working with. However, anything you want to save SHOULD NOT BE STORED HERE! For permanent storage, put items in your personal datastore directory 
+When you first launch a Cyverse App, you are likely to be located in the directory `/home/jovyan/data-store`. This is a good place to have your workspace. You should clone repos here, bring data here, or put any folder or file here you are working with. However, anything you want to save SHOULD NOT BE STORED HERE! For permanent storage, put items in your personal datastore directory `/home/jovyan/data-store/home/<cyverse-user-name>`.
+
+If you want to move data from workspace to permanent storage, you could type: `cp file.txt ~/data-store/home/jgillan`. Or you can copy and paste using the graphical file explorer. 
+
+
 
 
 * Compute = your scratch pad: fast but disposable
