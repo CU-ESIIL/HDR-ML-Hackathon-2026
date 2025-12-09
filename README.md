@@ -25,23 +25,18 @@ This event is being organized by:
 * The [Imageomics Institute](https://imageomics.org/)
 * [CyVerse, University of Arizona](https://cyverse.org/)
 
-## Agenda:
+## Agenda
 ### Day 1 (Friday, December 12):  
 * 0830-0900 - get set up, coffee
-* 0900-0915 - Welcome from Paula, ESIIL rep?
+* 0900-0915 - Welcome from [NEON](https://neonscience.org) and [ESIIL](https://esiil.org/)
 * 0910-1000 - Introductions and Ice breaker
-    * Organizers
-    * Overview of agenda for the day
-    * Introduction to the HDR institutes
-    * Purpose for the hackathon, brief intro to the challenge - details on themes later
-    * Ice breaker - ice breaker ideas: [https://gamestorming.com/category/icebreakers/](https://gamestorming.com/category/icebreakers/)
-* 1000-1030 Overview of challenge themes
+* 1000-1030 - Overview of [challenge themes](https://hdr-ecosystem.github.io/y2-challenge-webpage/index.html)
     * Imageomics - Beetles as sentinel taxa
     * A3D3 - Neurobiology
     * iHarp - Predicting coastal flooding
 * 1030-1040 - break
 * 1040-1100 - Getting started with compute resources
-    * CyVerse DE overview
+    * [CyVerse DE](https://de.cyverse.org) overview
 * 1100-1200 - How to create a submission
     * Overview of Codabench pages
         * Beetles as Sentinel Taxa (Imageomics): https://www.codabench.org/competitions/9854/
@@ -64,8 +59,10 @@ This event is being organized by:
 * 1200-1300 - Lunch break
 * 1300-1600 - NEON Tour? 
 
-
-[Challenge 1: Beetles as Sentinel Taxa](https://github.com/jeffgillan/HDR-SMood-Challenge-sample)
+## GitHub repositories with starter code
+* [Challenge 1: Beetles as Sentinel Taxa](https://github.com/jeffgillan/HDR-SMood-Challenge-sample)
+* [Challenge 2: Predicting Coastal Flooding](https://github.com/iharp-institute/iHARP-ML-Challenge-2)
+* [Challenge 3: Neural Forecasting]()
 <br>
 <br>
 <br>
