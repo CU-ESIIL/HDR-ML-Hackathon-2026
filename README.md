@@ -1,6 +1,8 @@
 # HDR-ML-Hackathon-Boulder-2025
 This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
 <br>
+Also see the Indico event page [here](https://indico.cern.ch/event/1615361/)
+<br>
 <br>
 **Learn more about the NSF HDR ML Challenge [here](https://www.nsfhdr.org/mlchallenge-y2) and prize info [here](https://www.codabench.org/competitions/9854/#:~:text=Prize%20Pool%20for%20HDR%20ML%20Challenges%202nd%20year).**
 <br>
