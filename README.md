@@ -1,5 +1,68 @@
 # HDR-ML-Hackathon-Boulder-2025
-Resources for the HDR ML Hackathon 2026 event at CU Boulder
+This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
+<br>
+<br>
+**Learn more about the NSF HDR ML Challenge [here](https://www.nsfhdr.org/mlchallenge-y2) and prize info [here](https://www.codabench.org/competitions/9854/#:~:text=Prize%20Pool%20for%20HDR%20ML%20Challenges%202nd%20year).**
+<br>
+## Event Info
+**Where**: [4001 Discovery Dr (SEEC Building)](https://maps.app.goo.gl/G4pHJNsqihCRgLrG8), CU Boulder East Campus
+
+**Zoom info**:  
+* [https://cuboulder.zoom.us/j/94963837906](https://cuboulder.zoom.us/j/94963837906) 
+* Meeting ID: 949 6383 7906
+
+**Day 1 **(main day)**: **  
+* Friday December 12, 2025, 830am - 5pm MST
+* Room: VizStudio (SEEC S372)
+
+**Day 2 **(office hours, space to work)**:**  
+* Monday December 15, 2025, 830am - 5pm MST
+* Room: Sievers Room (SEEC S228)
+
+This event is being organized by:  
+* The [National Ecological Observatory Network (NEON), Battelle](https://www.neonscience.org/)
+* The [Environmental Data Science Innovation & Impact Lab (ESIIL), CU Boulder](https://esiil.org/)
+* The [Imageomics Institute](https://imageomics.org/)
+* [CyVerse, University of Arizona](https://cyverse.org/)
+
+## Agenda:
+### Day 1 (Friday, December 12):  
+* 0830-0900 - get set up, coffee
+* 0900-0915 - Welcome from Paula, ESIIL rep?
+* 0910-1000 - Introductions and Ice breaker
+    * Organizers
+    * Overview of agenda for the day
+    * Introduction to the HDR institutes
+    * Purpose for the hackathon, brief intro to the challenge - details on themes later
+    * Ice breaker - ice breaker ideas: [https://gamestorming.com/category/icebreakers/](https://gamestorming.com/category/icebreakers/)
+* 1000-1030 Overview of challenge themes
+    * Imageomics - Beetles as sentinel taxa
+    * A3D3 - Neurobiology
+    * iHarp - Predicting coastal flooding
+* 1030-1040 - break
+* 1040-1100 - Getting started with compute resources
+    * CyVerse DE overview
+* 1100-1200 - How to create a submission
+    * Overview of Codabench pages
+        * Beetles as Sentinel Taxa (Imageomics): https://www.codabench.org/competitions/9854/
+        * Predicting Coastal Flooding (iHARP): https://www.codabench.org/competitions/10801/
+        * Neural Forecasting (A3D3): https://www.codabench.org/competitions/9806/
+    * Overview of baseline models/submissions
+    * How to submit - Imageomics submission example
+* 1200-1300 - Lunch break
+* 1300-1400 - Recap, continue with baseline submission exercise
+* 1400-1600 - Breakouts to form teams, work on challenge
+* 1600-1630 - Report outs and wrap up. 
+
+### Day 2 (Monday, December 15):  
+* 0830-0900 - Coffee, get settled
+* 0900-0930 - Brief check-in, do groups need help with anything?
+    * Organize breakouts if needed. 
+    * Match CyVerse and/or theme leads with groups that may need help
+* 0930-1130 - Free time to work
+* 1130-1200 - Check in with groups. Report out and Wrap up.
+* 1200-1300 - Lunch break
+* 1300-1600 - NEON Tour? 
 
 
 [Challenge 1: Beetles as Sentinel Taxa](https://github.com/jeffgillan/HDR-SMood-Challenge-sample)
