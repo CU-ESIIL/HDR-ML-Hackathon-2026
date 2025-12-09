@@ -113,13 +113,16 @@ Cyverse Data Store is the ideal cloud storage to host your large datasets, share
 <img width="405" height="167" alt="Screenshot 2025-12-03 at 8 28 44 AM" src="https://github.com/user-attachments/assets/58b542bd-65b3-4aad-a8c6-d47f37ba0938" />
 
 <br>
-<br>
 
 ### Apps
 
+Cyverse Apps are containerized software applications that include Jupyter Notebooks, Rstudio, Cloud Shell, QGIS, and VScode. These can be launched from the 'Apps' tab. When launching the apps, you can choose the size of the computing resouces you want to use (CPUs, RAM, Disk storage). 
+
 Launching [ESIIL ML Challenge 2025](https://de.cyverse.org/apps/de/165baf1e-be83-11f0-bf87-008cfa5ae621)
 
-Apps are emphemeral. Once they are shutdown, they disappear forever along with any data or code you have on it. 
+Apps are emphemeral. Once they are shutdown, they disappear forever along with any data or code you have on it. Make sure to move any important data over to your personal datastore. 
+
+<br>
 
 #### Command line navigation
 
