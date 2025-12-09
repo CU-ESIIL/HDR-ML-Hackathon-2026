@@ -121,6 +121,9 @@ Launching [ESIIL ML Challenge 2025](https://de.cyverse.org/apps/de/165baf1e-be83
 
 Command line navigation
 
+
+<img width="385" height="211" alt="Screenshot 2025-12-09 at 1 58 09 PM" src="https://github.com/user-attachments/assets/06672706-4fd9-47e3-9be5-4344ec8fbd40" />
+
 <br>
 <br>
 
