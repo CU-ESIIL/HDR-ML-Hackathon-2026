@@ -128,7 +128,7 @@ When you first launch a Cyverse App, you are likely to be located in the directo
 If you want to move data from workspace to permanent storage, you could type: `cp file.txt ~/data-store/home/jgillan`. Or you can copy and paste using the graphical file explorer. 
 
 
-
+#### Cloud Reproducible Triangle
 
 * Compute = your scratch pad: fast but disposable
   
