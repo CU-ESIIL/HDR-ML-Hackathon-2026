@@ -1,4 +1,5 @@
 # Quick start for working with GoCommands
+More details on using GoCommands can be found here: https://learning.cyverse.org/ds/gocommands/
 
 Example path to an output folder from a runner job on VICE App, using the terminal
 ```bash
