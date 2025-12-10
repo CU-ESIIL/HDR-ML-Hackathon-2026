@@ -114,6 +114,12 @@ Cyverse Data Store is the ideal cloud storage to host your large datasets, share
 
 <br>
 
+### Shared persistent storage for this hackathon:
+- Path (e.g., for GoCommands): `/iplant/home/shared/esiil/HDR_ML_challenge_2025`
+- URL: https://de.cyverse.org/data/ds/iplant/home/shared/esiil/HDR_ML_challenge_2025?type=folder&resourceId=f506b3ce-b8db-11f0-b119-90e2ba675364 
+
+<br>
+
 ### Apps Tab
 
 Cyverse Apps are containerized software applications that include Jupyter Notebooks, Rstudio, Cloud Shell, QGIS, and VScode. These can be launched from the 'Apps' tab. When launching the apps, you can choose the size of the computing resouces you want to use (CPUs, RAM, Disk storage). 
