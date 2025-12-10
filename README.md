@@ -180,3 +180,9 @@ Clone using the Git Widget:
 
 <img width="566" height="276" alt="Screenshot 2025-12-03 at 8 14 10 AM" src="https://github.com/user-attachments/assets/6cbc9b16-bdd8-4f64-8087-59427c6c2fb5" />
 
+<br>
+<br>
+
+### GPU Machine for Beetle Challenge
+
+If you are working on the [Beetle Challenge](https://github.com/jeffgillan/HDR-SMood-Challenge-sample), you can leverage more powerful GPUs from the cloud computer Jetstream2. Go [here](https://github.com/jeffgillan/HDR-SMood-Challenge-sample/tree/main/.github/workflows) to see how. 
