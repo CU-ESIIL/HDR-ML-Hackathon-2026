@@ -41,12 +41,11 @@ This event is being organized by:
     * How to submit - Imageomics submission example
 * 1200-1215 - Break!
 * 1215-1245 - Breakout discussions by theme over lunch
-Round 1 - 10 min discussion by theme (3 rooms, random assign)
-Round 2 - 10 min discussion by theme (3 rooms, random assign)
-Round 3 - 10 min discussion by theme (3 rooms, random assign)
+   * Round 1 - 10 min discussion by theme (3 rooms, random assign)
+   * Round 2 - 10 min discussion by theme (3 rooms, random assign)
+   * Round 3 - 10 min discussion by theme (3 rooms, random assign)
 * 1245-1300 - Regroup, summarize discussions
-* 1300-1345 - breakout by theme (3 rooms, self select)
-Folks have the option to choose smaller breakouts during this time if they form a team 
+* 1300-1345 - Breakout by theme (3 rooms, self select) Folks have the option to choose smaller breakouts during this time if they form a team 
 * 1345-1400 - Report outs and wrap up.
 
 <br>
