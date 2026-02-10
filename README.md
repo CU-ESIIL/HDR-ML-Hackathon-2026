@@ -1,4 +1,4 @@
-# HDR-ML-Hackathon-Boulder-2026
+# HDR-ML-Hackathon-Virtual-2026
 This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
 
 [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSfGlUkZMItr1x7SWwGJarW6vYcFIGg4gP0J_rgK8ODo3PB7ig/viewform)
