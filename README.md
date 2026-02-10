@@ -40,10 +40,13 @@ This event is being organized by:
     * Overview of baseline models/submissions
     * How to submit - Imageomics submission example
 * 1200-1215 - Break!
-* 1215-1245 - Breakout discussions by theme over lunch
-   * Round 1 - 10 min discussion by theme (3 rooms, random assign)
-   * Round 2 - 10 min discussion by theme (3 rooms, random assign)
-   * Round 3 - 10 min discussion by theme (3 rooms, random assign)
+* 1215-1245 - Breakout discussions by theme over lunch - options for how to proceed will be up to participants:
+   * Option 1 - open discussion of themes, then breakout into teams - if participants are unsure of which theme/how to approach the challenge
+      * Round 1 - 10 min discussion by theme (3 rooms, random assign)
+      * Round 2 - 10 min discussion by theme (3 rooms, random assign)
+      * Round 3 - 10 min discussion by theme (3 rooms, random assign)
+   * Option 2 - pitch for team - if there are participants with ideas and they want to get to work, but are looking for teams
+   * Option 3 - get to work in breakout rooms - if participants already have teams and ideas how to proceed. 
 * 1245-1300 - Regroup, summarize discussions
 * 1300-1345 - Breakout by theme (3 rooms, self select) Folks have the option to choose smaller breakouts during this time if they form a team 
 * 1345-1400 - Report outs and wrap up.
