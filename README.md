@@ -12,7 +12,9 @@ This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
 
 ## Event Info
 * **When**: Thursday, Feb 12, 1000-1400 MST  
-* **Where**: Virtual, register (above) for Zoom link
+* **Where**: Virtual, Zoom link https://cuboulder.zoom.us/j/94963837906 
+* Resources
+   * Shared google drive https://drive.google.com/drive/folders/1goGOlKTISdQmjlCtUiSvp1Plmau4zArh?usp=sharing
 <br>
 
 This event is being organized by:  
