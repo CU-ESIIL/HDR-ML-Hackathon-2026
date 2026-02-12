@@ -1,5 +1,8 @@
 # Model Overview: Baseline Approaches
 
+This document provides a description of the baseline models for the Beetles theme for the 2026 HDR ML Challenge found in the GitHub repo at this link:
+https://github.com/Imageomics/HDR-SMood-Challenge-sample
+
 This document provides a summary of the four baseline modeling approaches for the HDR Scientific Mood Challenge. The challenge focuses on predicting SPEI drought indicators (30-day, 1-year, and 2-year) from beetle images, addressing out-of-distribution (OOD) generalization across different geographic and temporal domains.
 
 ## Challenge Context
@@ -156,3 +159,4 @@ All models:
 
 - **BioCLIPv2**: Gu, Jianyang, et al. "Bioclip 2: Emergent properties from scaling hierarchical contrastive learning." arXiv preprint arXiv:2505.23883 (2025).
 - **DINOv2**: Oquab, Maxime, et al. "Dinov2: Learning robust visual features without supervision." arXiv preprint arXiv:2304.07193 (2023).
+
