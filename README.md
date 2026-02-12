@@ -24,7 +24,7 @@ This event is being organized by:
 * 0950-1000 - Log on, make sure audio works
 * 1000-1020 - Welcome from organizers, [NEON](https://neonscience.org), and [ESIIL](https://esiil.org/)
 * 1020-1040 - Community Care, Introductions, and Ice breaker
-* 1040-1110 - Overview of [challenge themes](https://hdr-ecosystem.github.io/y2-challenge-webpage/index.html) - [SLIDES](https://docs.google.com/presentation/d/1LvYtA6iNLyXfHB2JPphATIx5avAtXYJR_M4GzkbgSC0/edit?usp=sharing)
+* 1040-1110 - Overview of [challenge themes](https://hdr-ecosystem.github.io/y2-challenge-webpage/index.html) - [SLIDES](https://docs.google.com/presentation/d/1bFrpNGW7hc9EIJCYkVnRvCRA8baccAXjN3W3ncESAlQ/edit?usp=drive_link)
     * Imageomics - Beetles as sentinel taxa
     * A3D3 - Neurobiology
     * iHarp - Predicting coastal flooding
