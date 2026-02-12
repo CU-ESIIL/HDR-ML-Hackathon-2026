@@ -38,6 +38,7 @@ This event is being organized by:
         * Predicting Coastal Flooding (iHARP): https://www.codabench.org/competitions/10801/
         * Neural Forecasting (A3D3): https://www.codabench.org/competitions/9806/
     * Overview of baseline models/submissions
+       * Beetles example: https://github.com/jeffgillan/HDR-SMood-Challenge-sample
     * How to submit - Imageomics submission example
 * 1200-1215 - Break!
 * 1215-1245 - Breakout discussions by theme over lunch - options for how to proceed will be up to participants:
