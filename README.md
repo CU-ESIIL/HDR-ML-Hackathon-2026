@@ -6,10 +6,6 @@ This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
 <br>
 **Learn more about the NSF HDR ML Challenge [here](https://www.nsfhdr.org/mlchallenge-y2) and prize info [here](https://www.codabench.org/competitions/9854/#:~:text=Prize%20Pool%20for%20HDR%20ML%20Challenges%202nd%20year).**
 
-## Pre-event virtual bootcamp (OPTIONAL)
-* Tuesday, Feb 10, 2026 10-1200 MST
-* Register (link above) for zoom link
-
 ## Event Info
 * **When**: Thursday, Feb 12, 1000-1400 MST  
 * **Where**: Virtual, Zoom link https://cuboulder.zoom.us/j/94963837906 
