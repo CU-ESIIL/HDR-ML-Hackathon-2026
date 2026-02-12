@@ -9,10 +9,6 @@ This repo documents resources for the HDR ML Hackathon 2026 event at CU Boulder
 ## Event Info
 * **When**: Thursday, Feb 12, 1000-1400 MST  
 * **Where**: Virtual, Zoom link https://cuboulder.zoom.us/j/94963837906 
-* Resources
-   * Shared google drive https://drive.google.com/drive/folders/1goGOlKTISdQmjlCtUiSvp1Plmau4zArh?usp=sharing
-   * Imageomics GitHub repo for example beetle challenge code: https://github.com/Imageomics/HDR-SMood-Challenge-sample
-   * Our fork of the above repo with GitHub actions to run code on a JS2 GPU: https://github.com/jeffgillan/HDR-SMood-Challenge-sample
 <br>
 
 This event is being organized by:  
@@ -22,6 +18,11 @@ This event is being organized by:
 * [CyVerse, University of Arizona](https://cyverse.org/)
 <br>
 
+## Resources
+   * Shared google drive https://drive.google.com/drive/folders/1goGOlKTISdQmjlCtUiSvp1Plmau4zArh?usp=sharing
+   * Imageomics GitHub repo for example beetle challenge code: https://github.com/Imageomics/HDR-SMood-Challenge-sample
+   * Our fork of the above repo with GitHub actions to run code on a JS2 GPU: https://github.com/jeffgillan/HDR-SMood-Challenge-sample
+     
 ## Agenda
 * 0950-1000 - Log on, make sure audio works
 * 1000-1020 - Welcome from organizers, [NEON](https://neonscience.org), and [ESIIL](https://esiil.org/)
